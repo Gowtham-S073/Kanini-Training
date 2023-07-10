@@ -1,0 +1,13 @@
+
+<div class="text-center">
+<hr><label>User Name : </label>
+
+<input type="text" [(ngModel)]="username" >
+
+<button type="submit" (click)="onreset()"  >submit</button>
+
+
+<p *ngIf="username==null;else afterentering  "  >{{msg}}</p>
+<ng-template  #afterentering ><br> {{msg}}</ng-template>
+</div>
+

@@ -1,0 +1,41 @@
+header, h1{
+    color: #FF0000;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    
+}
+table, th,td {
+    background-color: #77F8AA;
+    margin-left: 35%;
+    border-spacing: 3px;
+    border-width: 5%;
+    border-style: solid;
+    text-align: left;
+    padding: 2px;
+    height: 20px;
+}
+div{
+    color: #D03090;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+#result{
+    font-size: 15px;
+}
+#table2{
+    float: right;
+    width: 35%;
+    color: #D03090;
+    font-style: italic;
+    font-weight: bold;
+    width: 400px;
+   margin-left: 70%;
+   margin-top:-170px ;
+   height: 300px;
+
+}
+#bt{
+   text-align: center;
+}

@@ -1,0 +1,15 @@
+h2
+{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 40px;
+    width: auto;
+    background-color: green;
+    color: white;
+}
+.suc{
+    font-size: larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin-left: 5%;
+}

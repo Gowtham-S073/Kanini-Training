@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CompanyCF",
+    "\\CompanyCF\\CODEFIRST",
+    "\\CompanyCF\\CODEFIRST\\Controllers",
+    "\\CompanyCF\\CODEFIRST\\Migrations",
+    "\\CompanyCF\\CODEFIRST\\Models",
+    "\\CompanyCF\\CODEFIRST\\Repository",
+    "\\CompanyCF\\DBFIRST\\obj",
+    "\\CompanyCF\\DBFIRST\\Properties",
+    "\\CompanyCF\\DBFIRST\\Services"
+  ],
+  "SelectedNode": "\\CompanyCF\\CODEFIRST\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

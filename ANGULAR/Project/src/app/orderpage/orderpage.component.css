@@ -1,0 +1,95 @@
+.navbar{
+    margin-top: -40px;
+    margin-left: -10px;
+    margin-right: -20px;
+    display: inline-block;
+    /* background:url(../images/orderp.jpg) 500px 1px ; */
+    background-color: rgb(10, 30, 60);
+    color:white;
+    padding:20px;
+    width: 98.5%;
+    
+}
+
+.navbar ul{
+    float: right;
+    list-style: none;
+    margin-top: 13px;
+    margin-right: 4%;
+}
+li{
+    display:inline-block;
+    padding:10px;
+}
+
+
+a:hover{
+    color: rgb(10, 30, 60);
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+table{
+    
+    color:white;
+    padding: 20px;
+    width: 30%;
+    margin-left: 35%;
+    margin-bottom: 20px;
+    border-right: rgb(10, 30, 60) solid 10px;
+    border-radius: 25px;
+    border-bottom: goldenrod solid 10px;
+    
+    font-size: 18px;
+    
+  
+}
+
+#submit{
+    margin-left: 80px;
+}
+
+.navbar ul li::after{
+    background-color: white ;
+    content: ' ';
+    width: 0%;
+    height: 1.5px;
+    display: block;
+    margin: auto;
+    transition: .5s;
+    }
+#display
+{
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 15%;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+#display1{
+    
+    color: rgb(10, 30, 60);
+}
+
+.image{
+    margin-top:-5px;
+    
+    background-image: url(../images/op2.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 10px;
+}
+table button{
+    text-align: center;
+}
+
+h2{
+    padding-top: 20px;
+    color: white;
+    margin-left:12%;
+}

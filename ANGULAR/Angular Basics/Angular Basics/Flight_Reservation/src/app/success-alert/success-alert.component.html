@@ -1,0 +1,11 @@
+<h2 style="text-align: center;"> Success-Alert Works!</h2>
+
+<div class="suc">
+<label>Enter the UserName   &nbsp;&nbsp;&nbsp;&nbsp;</label><input type="text" [(ngModel)]="username">
+<p>Entered UserName is &nbsp; {{ username }}</p>
+<button [disabled]="username === ''" (click)="resetUsername()">Submit</button>
+</div>
+
+<br><br>
+
+<app-calculator></app-calculator>

@@ -1,0 +1,101 @@
+/* body{
+    font-weight: bold;
+    background-color: blue;
+    
+}
+table,th, td{
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color:white;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: blue;  
+    color:#08088A;
+    padding: 7px;    
+}
+label {
+    text-align: center;
+}
+.title {
+    text-align: center;
+  }
+  #order {
+    color: #08088a;
+    margin-left: 45%;
+    margin-right: auto;
+    font-weight: bold;
+  }
+  #result {
+    color: #ffffff;
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+  }
+#name,
+#phoneNumber,
+#emailId {
+ width: 378px;
+}
+.valid {
+    border: green 2px solid;
+    color: black;
+    background-color: rgb(226, 255, 184);
+  }
+  .invalid {
+    border: red solid 2px;
+    color: black;
+    background-color: rgb(255, 171, 171);
+  }
+  
+.btn-primary{
+    color: #08088A;
+}
+body {
+  background-color: rgb(14, 14, 114);
+  font-weight: bold;
+}
+
+h3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+body{
+  background-color: #08088A;
+}
+header{
+  text-align: center;
+  color: #ffffff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table,tr,td {
+  width: 50%;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid;
+  border-color: #08088A;
+  padding: 7px;
+  color: #08088A;
+  background-color: #ffffff;
+}
+
+#order {
+  color: #08088A;
+  margin-left: 45%;
+  margin-right: auto;
+  font-weight: bold;
+}
+
+#result {
+  color: #ffffff;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  color: #08088A;
+  text-align: center;
+}
