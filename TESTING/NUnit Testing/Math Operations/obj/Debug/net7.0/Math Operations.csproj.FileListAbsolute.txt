@@ -1,0 +1,93 @@
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Math Operations.exe
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Math Operations.deps.json
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Math Operations.runtimeconfig.json
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Math Operations.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Math Operations.pdb
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.csproj.AssemblyReference.cache
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.AssemblyInfoInputs.cache
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.AssemblyInfo.cs
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.csproj.CoreCompileInputs.cache
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.dll
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\refint\Math Operations.dll
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.pdb
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.genruntimeconfig.cache
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\ref\Math Operations.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\testhost.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\testhost.exe
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\c#\programs\NUnit Testing\Math Operations\obj\Debug\net7.0\Math Operations.csproj.CopyComplete
