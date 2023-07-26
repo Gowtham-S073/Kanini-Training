@@ -1,0 +1,269 @@
+.hut {
+    width: 319px;
+    height: 126px;
+    padding-left: 40px;
+  }
+  
+  .hut {
+    display: flex;
+    align-items: center;
+  }
+  
+  .hut img {
+    margin-right: 10px; /* Add some spacing between the logo and buttons */
+  }
+  
+  .loginButton,
+  .signupButton {
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px; /* Add some spacing between the buttons */
+    transition: background-color 0.3s; /* Add a smooth transition effect */
+  }
+  
+  .loginButton {
+  background-color: transparent; /* Remove the background color for the login button */
+  color: black;
+  border: 1.5px solid transparent; /* Add a transparent border initially */
+  transition: border-color 0.3s; /* Add a transition effect for the border color change */
+}
+
+.loginButton:hover {
+  border-color: #ff6d00; /* Change the border color to black on hover */
+}
+
+  
+  .signupButton {
+    background-color: #ff6d00; /* Set a black background color for the signup button */
+  }
+  
+  .signupButton:hover {
+    background-color: #ff9341; /* Set the background color to orange when the signup button is hovered */
+  }
+  
+  .splitContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh; /* Set the height to 100% of the viewport height (adjust as needed) */
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .leftPart,
+  .rightPart {
+    flex: 1; /* Each part takes an equal amount of space */
+    text-align: center; /* Center the content horizontally */
+  }
+  
+  .hutLogo {
+     /* Ensure the image doesn't exceed its container's width */
+     /* width: 747px; */
+     height: 1035px;
+    display: flex;
+    position: relative;
+    /* bottom: 160px; */
+    /* height: 500px; */
+    /* left: 188px; */
+
+  }
+  
+
+  .logbut{
+        display: flex;
+        height: 72px;
+        width: 506px;
+        position: relative;
+        /* top: -195px; */
+        bottom: 270px;
+        left: 564px;
+      }
+
+
+    .loglogo {
+      width: 100%;
+      max-width: 500px;
+      height: auto;
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      /* Add any other styles as needed */
+    }
+    
+
+
+  .changingText{
+    display: flex;
+    position: relative;
+    top: -112px;
+    left: 85px;  }
+
+
+
+
+
+
+  .sub{
+    color: #ff6d00;
+    position: relative;
+    display: flex;
+    bottom: 80px;
+    left: 79px;
+    width: 589px;  }
+
+
+  .inputBoxContainer{
+    display: flex;
+    position: relative;
+    /* bottom: -82px; */
+    left: 83px;
+    height: 90px;
+    /* width: 463px; */
+    /* width: 400px; */
+    bottom: 66px;
+
+
+
+  }
+
+  .squareButton {
+    width: 112px;
+    background-color: rgb(255, 212, 160);
+    transition: background-color 0.3s; /* Add a smooth transition effect */
+  }
+  
+  .squareButton:hover {
+    background-color: rgb(255, 194, 82); /* Set the background color to orange when the button is hovered */
+  }
+  
+
+
+  .desimg{
+    display: flex;
+    position: relative;
+    top: 300px;
+    right: 599px;
+  }
+
+
+  .inputBoxContainer input{
+    width: 400px;
+    font-size: 22px;
+    padding-left: 30px;
+  }
+
+.inputBoxContainer button{
+  width: 131px;
+  margin-left: 29px;
+  font-size: 21px;
+  font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* Add these styles for the sidebar */
+.sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: hsl(51, 100%, 92%);
+  padding-top: 60px;
+  transition: 0.5s;
+  z-index: 1;
+}
+
+.sidebar a {
+  padding: 16px 8px; /* Adjusted padding for more spacing */
+  text-decoration: none;
+  font-size: 20px; /* Reduced font size for better readability */
+  color: #818181;
+  display: block;
+  transition: color 0.3s; /* Changed transition property to only color */
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 12px; /* Adjusted top value to vertically center the close button */
+  right: 16px; /* Adjusted right value for close button alignment */
+  font-size: 28px; /* Reduced font size for the close button */
+}
+
+/* This class will be used to show the sidebar */
+.sidebar.active {
+  width: 550px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS */
+.hutLogo {
+  /* Set width and height as needed */
+ 
+
+  /* Add animation properties */
+  animation-name: spin;
+  animation-duration: 9s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(10deg);
+  }
+}
+

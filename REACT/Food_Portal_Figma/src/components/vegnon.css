@@ -1,0 +1,240 @@
+.full {
+    width: 74%;
+    margin-top: 120px;
+    margin-left: 470px;
+}
+
+.spanorange {
+    color: #ff6d00;
+    padding: 8px;
+}
+
+.cardvn {
+    width: 199px;
+    height: 172px;
+    padding: 2%;
+    text-align: center;
+    border: 1px solid rgba(158, 158, 158, 1);
+    border-radius: 4px;
+}
+
+.cardvn.clicked {
+    border: 1px solid #ff6d00;
+    box-shadow: 3px 2px 8px 0 #f8cfa2;
+    font-weight: bold;
+}
+.h6image {
+    color: rgba(255, 109, 0, 1);
+    padding: 8px;
+    width: 13%;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: rgba(255, 109, 0, 0.1); 
+}
+
+.ptag {
+    font-weight: 50;
+    font-size: 14px;
+    line-height: 32px;
+    color: #646464;
+}
+
+.count-button {
+    font-size: 24px;
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    border:none;
+}
+
+.count {
+    font-size: 20px;
+}
+
+
+.tdtag {
+    width: 25%;
+
+}
+
+.tdtag span {
+    width: 20%;
+    padding: 10%;
+    color:#FF6D00;
+}
+
+.btm-img {
+    width: 480px;
+    height: 346px;
+    bottom: 85px;
+    left: 4px;
+    position: fixed;
+}
+
+.h3tag {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+}
+
+.h5tagg {
+    font-weight: 550;
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.btn {
+    background-color: white;
+    border: 2px solid #FF6D00;
+    color: #FF6D00;
+    width: 137px;
+    top: 50%;
+    transform: translateY(-50%);
+    /* position: absolute; */
+    left: 8%;
+    height: 44px;
+    border-radius: 8px;
+}
+
+#btn1 {
+    background-color: #FF6D00;
+    color: white;
+    border: 2px solid #FF6D00;
+    width: 175px;
+    top: 50%;
+    transform: translateY(-50%);
+    /* position: absolute; */
+    right: 8%;
+    border-radius: 8px;
+    height: 44px;
+}
+
+.progress-bars {
+    width: 1015px;
+    max-width: 100%;
+    height: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #eeeeee;
+    overflow: hidden;
+    position: absolute;
+    left: 20%;
+}
+
+
+.progress {
+    height: 100%;
+    background-color: #F7D38C;
+    width: 40%;
+}
+
+#percentage {
+    position: absolute;
+    font-weight: 500;
+    color: #424242;
+    top:110%;
+    transform: translateY(-50%);
+    margin-left: 10%;
+  }
+
+.btn:hover {
+    background-color: white;
+    border: 2px solid #FF6D00;
+    color: #FF6D00;
+}
+
+.foot {
+    box-shadow: 11px 3px 11px 3px rgba(12, 11, 11, 0.07);
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+}
+
+/* Responsive Styles for iPad Pro 11" */
+@media (max-width: 834px) {
+    .btm-img {
+        margin-bottom: 500px;
+        margin-left: 1px;
+        position:fixed;
+    }
+ 
+
+    .full {
+        width: 834px;
+        height: 1194px;
+        margin-top: 60px;
+        margin-left: 50px;
+    }
+
+    .row {
+        padding: 2px;
+        width: 700px;
+    }
+
+    .h5tagg {
+        font-weight: 580;
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .count-button {
+        font-size: 28px;
+        height: 45px;
+
+    }
+
+    .count {
+        font-size: 26px;
+    }
+
+      .tdtag {
+        width: 20%;
+    }
+
+    .tdtag span {
+        width: 20%;
+        padding: 10%;
+    }
+    .h6image {
+        color: rgba(255, 109, 0, 1);
+        width: 150px;
+        height: 40px;
+        text-align: center;
+        font-size: 20px;
+        border-radius: 6px;
+        background-color: rgba(255, 109, 0, 0.1);
+    }
+
+    .foot{
+       margin-bottom: 1px;
+    }
+    .btn{
+        left: 4%;
+        width: 107px;
+    }
+
+    #btn1 {
+      width: 113px;
+      left: 80%;
+      right: 8%;
+    }
+  
+    .progress-bars {
+      width: 55%;
+      position: relative;
+      left: 20%;
+    }
+  
+    #percentage {
+      right: 60%;
+      top:70px;
+      transform: translateX(50%);
+    }
+   
+}

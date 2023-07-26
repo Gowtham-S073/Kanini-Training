@@ -1,0 +1,145 @@
+.table-header th {
+    background-color: #737373;
+    color: white;
+    padding: 20px;
+}
+
+.Detail1 {
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.Detail2 {
+    color: #737373;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.Detail3 {
+    padding-left: 120px;
+    padding-top: 50px;
+    color: #FF6D00;
+    font-weight: bold;
+}
+
+.Table-detail {
+    margin-left: 150px;
+}
+
+.Detail3 ul {
+    list-style-type: none;
+}
+
+.Detail4 {
+    padding-left: 150px;
+}
+
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1650px;
+    }
+}
+
+.custom-container {
+    padding-left: 150px;
+    max-width: 1650px;
+}
+
+
+.bigger-input {
+    height: 100px;
+    /* Adjust the height as needed */
+    width: 200px;
+    /* Adjust the width as needed */
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-right1 {
+    text-align: right;
+}
+
+.text-right7 {
+    text-align: right;
+}
+
+.Kanna1 {
+    display: flex;
+    padding: 150px;
+}
+
+.table-header th {
+    background-color: #EBEBEB;
+    padding: 20px;
+}
+
+.table td {
+    padding: 16px;
+}
+
+.Billing td {
+    padding: 30px;
+}
+
+.thead-dark {
+    background-color: darkgrey;
+    color: white;
+}
+
+.Info1 {
+    padding: 20px;
+}
+
+.bg-warning {
+    background-color: red;
+}
+
+.form-control {
+    width: 75%;
+}
+
+/* styles.css */
+.input-75-percent {
+    padding: 50px;
+    width: 75%;
+}
+
+@media (max-width: 1200px) {
+
+    .Detail1,
+    .Detail2,
+    .Detail3,
+    .Detail4,
+    .Table-detail {
+        padding-left: 100px;
+    }
+
+    .bigger-input {
+        width: 150px;
+    }
+}
+
+/* Styles for mobile devices (up to 768px) */
+@media (max-width: 768px) {
+
+    .Detail1,
+    .Detail2,
+    .Detail3,
+    .Detail4,
+    .Table-detail {
+        padding-left: 50px;
+    }
+
+    .bigger-input {
+        width: 100%;
+    }
+}

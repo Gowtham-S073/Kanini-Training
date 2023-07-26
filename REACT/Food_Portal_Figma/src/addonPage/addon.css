@@ -1,0 +1,824 @@
+/* vector image css */
+
+.vecimg {
+  display: flex;
+  /* margin-left: 150px;
+    margin-top: 50px; */
+  padding-left: 150px;
+  padding-top: 50px;
+  /* width: 28px */
+
+
+
+
+
+}
+
+.card {
+  width: 374px;
+  /* height: 325px */
+  padding: 0px !important;
+  height: 325px;
+
+}
+
+.card-body {
+  padding: 0px;
+  height: 325px;
+  display: contents;
+  border-radius: 5px;
+  border: 1px;
+}
+
+.card-img-top {
+  width: 372px;
+  /* margin-top: -59px; */
+
+}
+
+
+.col {
+  margin-top: 40px;
+  padding-left: 150px;
+  /* padding-top: 50px; */
+}
+
+.heading {
+  padding-left: 30px;
+  /* padding-top: 4px; */
+  font-weight: bolder;
+
+}
+
+
+/* button design */
+.btn1 {
+  border: none;
+  width: 30%;
+  font-size: 24px;
+  width: 40px;
+  height: 45px;
+  padding: 0;
+}
+
+
+/* checkBox */
+
+
+.checked {
+  background-color: #FF6D00;
+  /* Change the background color when checkbox is checked */
+}
+
+
+
+.custom-checkbox {
+  display: inline-block;
+  position: relative;
+  padding-right: 250px;
+  cursor: pointer;
+  user-select: none;
+  /* padding-bottom: 0px; */
+
+}
+
+.custom-checkbox input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkmark {
+  position: absolute;
+  top: -139px;
+  left: -35px;
+  height: 24px;
+  width: 24px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+
+.custom-checkbox:hover input~.checkmark {
+  background-color: #ccc;
+}
+
+.custom-checkbox input:checked~.checkmark {
+  background-color: #FF6D00;
+  /* Change the background color when checkbox is checked */
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.custom-checkbox input:checked~.checkmark:after {
+  display: block;
+}
+
+.custom-checkbox .checkmark:after {
+  left: 7px;
+  top: 3px;
+  width: 6px;
+  height: 12px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  transform: rotate(45deg);
+}
+
+
+/* button DESIGN */
+
+
+.btnon {
+  display: flex;
+  position: absolute;
+  left: 247px;
+  top: 266px;
+  border-radius: 5px;
+  border: 1px;
+}
+
+
+
+.wholebdy {
+  padding-left: 150px;
+  padding-top: 30px;
+  row-gap: 25px;
+  display: flex;
+
+}
+
+
+
+
+.name {
+  display: flex;
+  position: relative;
+  top: 5px;
+  left: -64px;
+  /* width: hug 134px;
+    height: hug 30px; */
+  font-size: large;
+}
+
+
+
+.cnt1 {
+  padding: 9px;
+}
+
+
+
+
+.custom-alert {
+  margin-top: 10px;
+  width: auto;
+  height: 42px;
+  gap: 12px;
+
+}
+
+.alert-text {
+
+  font-size: 14px;
+  margin-bottom: 0;
+  display: flex;
+  position: relative;
+  top: -9px;
+
+
+}
+
+.alert {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+  @media (max-width: 767px) {
+    .vecimg {
+      text-align: center;
+    }
+  
+    .heading {
+      font-size: 24px;
+    }
+  
+    .wholebdy {
+      margin: 0 -5px;
+    }
+  
+    .card {
+      margin-bottom: 15px;
+    }
+    
+    .card-img-top {
+      width: 100%;
+      height: auto;
+    }
+  
+    .cnt1 {
+      font-size: 18px;
+    }
+  
+    .btn1 {
+      font-size: 16px;
+      padding: 6px 12px;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 991px) {
+    .vecimg {
+      text-align: center;
+    }
+  
+    .heading {
+      font-size: 36px;
+    }
+  
+    .wholebdy {
+      margin: 0 -10px;
+    }
+  
+    .card {
+      margin-bottom: 20px;
+    }
+    
+    .card-img-top {
+      width: 100%;
+      height: auto;
+    }
+  
+    .cnt1 {
+      font-size: 24px;
+    }
+  
+    .btn1 {
+      font-size: 20px;
+      padding: 8px 16px;
+    }
+  }
+  
+
+
+
+
+
+
+
+
+
+  .alert-dismissible .btn-close{
+    top: -8px;
+
+  }
+
+
+
+
+
+
+   */
+
+
+
+
+/* RESPONSIVE  */
+
+
+/* .desktop{
+  max-width: 1756px;
+  max-height: 760px;
+  top: 190px;
+  left: 150px;
+  column-gap: 30px;
+} */
+
+/* Desktop View */
+@media (min-width: 1757px) {
+  .desktop {
+    max-width: 1736px;
+    max-height: 760px;
+    top: 190px;
+    left: 150px;
+    column-gap: 30px;
+  }
+}
+
+/* @media (min-width:900px){
+  .tablet{
+    max-width: 800px;
+    max-height: 900px;
+    top :199px
+    colo    
+  }
+} */
+
+
+/* Tablet View */
+/* @media (max-width: 1656px) and (min-width: 768px) {
+  .tablet {
+    max-width: 1366px;
+    max-height: 900px;
+    top: 100px;
+    left: 0px;
+    column-gap: 20px;
+  }
+} */
+
+
+
+/* Tablet View */
+@media screen and (max-width: 830px) {
+  .desktop {
+    max-width: 869px;
+    max-height: 900px;
+
+    padding-left: 0px;
+  }
+
+  .wholebdy {
+    padding-left: 40px !important;
+    padding-top: 30px;
+    row-gap: 25px;
+  column-gap: 20px;
+
+
+
+    padding-right: 90px;
+
+    column-gap: 0px;
+
+    
+.card {
+  width: 324px;
+  /* height: 325px */
+  padding: 0px !important;
+  height: 305px;
+
+}
+
+  }
+
+}
+
+
+
+
+
+
+/* Tablet View (max-width: 1000px) */
+@media screen and (max-width: 1000px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+  .wholebdy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Updated to center the cards */
+    padding-left: 60px;
+  }
+
+  .wholebdy > div {
+    flex: 0 0 calc(50% - 10px);
+    margin-bottom: 20px;
+    
+  }
+}
+
+
+
+
+/* Tablet View */
+@media screen and (max-width: 900px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+  .wholebdy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 26px;
+  }
+
+  .wholebdy > div {
+    flex: 0 0 calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+}
+
+
+/* Tablet View */
+/* @media screen and (max-width: 800px) {
+  .desktop {
+  }
+
+  .wholebdy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    padding-left: 40px;
+    
+  }
+
+  .wholebdy > div {
+    flex: 0 0 calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+} */
+
+
+/* 
+
+@media screen and (max-width: 1000px) {
+  .desktop {
+  }
+
+  .wholebdy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 75px;
+  }
+
+  .wholebdy > div {
+    flex: 0 0 calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+} */
+
+
+/* 
+
+@media screen and (max-width: 1100px) {
+  .desktop {
+  }
+
+  .wholebdy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 110px;
+  }
+
+  .wholebdy > div {
+    flex: 0 0 calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+  .desktop {
+  }
+
+  .wholebdy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 150px;
+  }
+
+  .wholebdy > div {
+    flex: 0 0 calc(50% - 10px);
+    margin-bottom: 20px;
+  }
+}
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media screen and (min-width: 800px) and (max-width:830px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+  .card-img-top {
+    width: 322px;
+    /* margin-top: -59px; */
+}
+
+.wholebdy {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 40px; */
+  padding-right: 20px;
+}
+
+.checkmark {
+  position: absolute;
+  top: -136px;
+  left: -17px;
+  height: 24px;
+  width: 24px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+
+.name {
+  display: flex;
+  position: relative;
+  top: 5px;
+  left: -54px;
+  font-size: large;
+}
+
+.btnon {
+  display: flex;
+  position: absolute;
+  left: 201px;
+  top: 251px;
+  border-radius: 5px;
+  border: 1px;
+}
+
+ 
+
+ 
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 700px) and (max-width:800px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+  .card-img-top {
+    width: 322px;
+    /* margin-top: -59px; */
+}
+
+.wholebdy {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 40px; */
+  padding-right: 30px;
+}
+
+.checkmark {
+  position: absolute;
+  top: -136px;
+  left: -17px;
+  height: 24px;
+  width: 24px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+
+.name {
+  display: flex;
+  position: relative;
+  top: 5px;
+  left: -54px;
+  font-size: large;
+}
+
+.btnon {
+  display: flex;
+  position: absolute;
+  left: 201px;
+  top: 251px;
+  border-radius: 5px;
+  border: 1px;
+}
+
+ 
+
+ 
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 600px) and (max-width:700px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+  .card-img-top {
+    width: 322px;
+    /* margin-top: -59px; */
+}
+.wholebdy {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 26px;
+}
+
+.wholebdy {
+  /* display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 40px; */
+  padding-right: 30px;
+}
+
+.checkmark {
+  position: absolute;
+  top: -136px;
+  left: -17px;
+  height: 24px;
+  width: 24px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+
+.name {
+  display: flex;
+  position: relative;
+  top: 5px;
+  left: -54px;
+  font-size: large;
+}
+
+.btnon {
+  display: flex;
+  position: absolute;
+  left: 201px;
+  top: 251px;
+  border-radius: 5px;
+  border: 1px;
+}
+
+
+
+ 
+}
+
+
+@media screen and (min-width: 400px) and (max-width:500px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+
+  .card-img-top {
+    width: 322px;
+    /* margin-top: -59px; */
+}
+.wholebdy {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+  padding-left: 26px;
+  padding-right: 32px;
+}
+
+.btnon {
+  display: flex;
+  position: absolute;
+  left: 200px;
+  top: 249px;
+  border-radius: 5px;
+  border: 1px;
+}
+.checkmark {
+  position: absolute;
+  top: -139px;
+  left: -26px;
+  height: 24px;
+  width: 24px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+  
+}
+
+
+
+
+
+
+@media screen and (min-width: 300px) and (max-width:400px) {
+  .desktop {
+    /* Your existing styles for the desktop view */
+  }
+
+
+  .card-img-top {
+    width: 322px;
+    /* margin-top: -59px; */
+}
+.wholebdy {
+ 
+  padding-left: 16px;
+  padding-right: 32px;
+}
+
+.vecimg {
+  display: flex;
+  padding-left: 49px;
+  padding-top: 69px;
+  /* width: 28px; */
+}
+
+
+
+.btnon {
+  display: flex;
+  position: absolute;
+  left: 200px;
+  top: 249px;
+  border-radius: 5px;
+  border: 1px;
+}
+.checkmark {
+  position: absolute;
+  top: -139px;
+  left: -26px;
+  height: 24px;
+  width: 24px;
+  border-radius: 2px;
+  background-color: #eee;
+}
+  
+}
